@@ -18,3 +18,24 @@
     }
   ]
 }
+
+{
+  "Titre": "Fight Club",
+  "directeur": "David Fincher",
+  "Auteur": "Chuck Palahniuk, Jim Uhls ,",
+  "Date": 1999,
+  "Vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "Narrator"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Personnage": "Robert 'Bob' Paulsen"
+    }
+  ]
+}
